@@ -128,7 +128,7 @@ Upload to GitHub Pages for free hosting.
 </html>
 
 ### STYLE.CSS:
-
+```
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -250,7 +250,7 @@ body {
     margin-top: 40px;
     font-size: 0.9rem;
 }
-
+```
 
 ## OUTPUT
 
