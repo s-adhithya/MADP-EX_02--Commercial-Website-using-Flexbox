@@ -253,6 +253,9 @@ body {
 ```
 
 ## OUTPUT
+<img width="1919" height="970" alt="Screenshot 2025-11-25 204045" src="https://github.com/user-attachments/assets/daab1881-52ff-4608-97c2-21d95f3c2f52" />
+<img width="1919" height="967" alt="Screenshot 2025-11-25 203900" src="https://github.com/user-attachments/assets/17ecaff6-fc06-4c41-8ce9-544d057daa0b" />
+
 
 
 ## RESULT
