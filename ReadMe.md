@@ -51,7 +51,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ### INDEX.HTML:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,7 +126,7 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
-
+```
 ### STYLE.CSS:
 ```
 body {
